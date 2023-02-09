@@ -1,40 +1,36 @@
 
-# SchoolDBMS
-- This is a School Database Management System (DBMS) written in Python that allows you to store and manage student information.  
-- The program uses the SQLite database to store the data.
+# BMI-Body-Mass-Index-Calculator
+- This is a Body Mass Index (BMI) calculator that allows you to calculate your BMI by entering your weight and height.
+- The BMI is a simple calculation that provides an estimate of a person's body fat based on their weight and height.
+
 
 
 ## Features
 
-- Store and manage student information
-- Add new students  
-- Update and delete existing records 
-- Display records   
+- Calculate your BMI based on your weight and height
+- Check if your BMI falls within the normal range  
 ## Prerequisites
 
 - Python 3.x 
-- SQLite library (pip install sqlite3)
+
 
 ## Installation 
 
 - Clone the repository to your local machine using 
 
 ```bash
-  git clone https://github.com/INFI-NIXEL/SchoolDBMS.
-```
-- Install requirements using
-```bash
-pip install -r requirements.txt
+  git clone https://github.com/INFI-NIXEL/BMI-Body-Mass-Index-Calculator
 ```
 
 ## Usage
 - Locate the repository.
 - To run the SchoolDBMS, simply run the following command in the terminal: 
 ```bash
- python school_dbms.py 
+ python bmi_calculator.py
  ```
 ## Contributing 
 - If you want to contribute to the project, you can fork the repository and submit a pull request with your changes.
+
 
 
 
